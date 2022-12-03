@@ -1,7 +1,7 @@
 ![](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)
 <h1 align="center">Hi 👋, I'm Raf</h1>
 <h3 align="center">I enjoy questioning about the world</h3>
-<img align="right" alt="Programming" width="400" src="https://www.totaltek.com/wp-content/uploads/2022/01/Computer-Programming-Languages.jpg">
+<img align="right" alt="Programming" width="400" src="https://cdn.pixabay.com/photo/2021/05/14/12/26/prisoner-6253261_960_720.jpg">
 
 - ⚡ Fun fact **I like unfunny jokes**
 
