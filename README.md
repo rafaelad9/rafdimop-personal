@@ -1,5 +1,5 @@
 ![](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)
-<h1 align="center">Raf Dimop</h1>
+<h1 align="center">_Raf Dimop_</h1>
 <h3 align="center">"I hope someday you will join us and the world will live as one."</h3>
 <h3 align="center">Programming since 2020</h3>
 
